@@ -7,4 +7,4 @@ This AI will help you prove your "burger is NOT vegetable" position
 3. Use web-camera or just download your picture burger
 4. Say your kid "YOU ARE NOT RIGHT! YOU SEE THIS THIS IS NOT VEGETABLE"
 5. Be champion
-## Say thanks to me in comments
+## Thanks me in comments
